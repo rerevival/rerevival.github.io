@@ -18,8 +18,8 @@ la tete condamne derriere elle avec ses mini ailes (safe = devant la tete)
 
 ## Coherence
 1 lien vers un joueur aléatoire à récupérer par le main tank qui ira s'isoler (grosse aoe centrée + full CD)
-1 line aoe qui doit absolument etre "tankée" par l'autre tank 
-<Boss> <Tank> <Reste du groupe>
+1 line aoe qui doit absolument etre "tankée" par l'autre tank   
+```<Boss> <Tank> <Reste du groupe>```
 
 
 Hydro agression    - Ominous Bubbling : stack marker en light parties (tank-heal-2dps)  
