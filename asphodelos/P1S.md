@@ -70,7 +70,11 @@ Violet  in
 Placement selon la Durée : voir schéma
 Bien attendre les 4 résolution des attaques sur sa position
 
-![image](https://user-images.githubusercontent.com/106151129/170047937-2ff028dc-9db2-4a0a-83e5-58e39f4aee05.png)
+[![image](https://user-images.githubusercontent.com/106151129/170047937-2ff028dc-9db2-4a0a-83e5-58e39f4aee05.png)](https://ff14.toolboxgaming.space/?id=492343800731461&preview=1#1)
+
+
+![image](https://user-images.githubusercontent.com/106151129/170061867-f547ed6d-f41e-494d-9ff4-3ff72dcf4b3c.png)
+
 
 **Execution corrosive**  - intemperance -   
 même résolution qu'avant mais entre le 2eme et 3eme cube il y a un Chaine punitive (pres/loin/pacman)  
