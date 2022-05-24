@@ -5,5 +5,8 @@
 # Ultimates
 [UCOB](./ultimates/ucob)
 
-# Proposer des modifs 
+
+* * *
+
+Proposer des modifs  
 [Via modification de fichier dans github](https://github.com/rerevival/rerevival.github.io)
