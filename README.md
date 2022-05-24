@@ -2,5 +2,5 @@
 
 [P1S](./asphodelos/P1S)
 
-# ULTIMATES
+# Ultimates
 [UCOB](./ultimates/ucob)
