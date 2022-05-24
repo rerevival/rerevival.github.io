@@ -1,3 +1,3 @@
-==== P1S ====
+# P1S
 
 Strat goes here
