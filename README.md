@@ -15,6 +15,7 @@
 - [P4S P1](./asphodelos/P4SP1)
 - [P4S P2](./asphodelos/P4SP2)
 
+- [Dps checks All Pandaemonium](./asphodelos/DPS)
 
 # Promesse d'Eden 
 - E9S - Pas de strat
