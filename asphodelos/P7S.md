@@ -3,7 +3,7 @@
 ## Purgation (sleepo)
 [Toolbox purgation](https://ff14.toolboxgaming.space/?id=771476818153661&preview=1#4)
 ### Positions
-![unknown](https://user-images.githubusercontent.com/106151129/190917541-449fbd43-f88f-41f9-905e-eea0f177eafc.png)
+![image](https://user-images.githubusercontent.com/106151129/190918339-b3ac9150-7882-4848-820d-fbba166bf37d.png)
 
 ## Famine
 ![unknown](https://user-images.githubusercontent.com/106151129/190917571-a8609d1e-d6bc-475c-95eb-ce61b89a0718.png)
