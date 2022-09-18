@@ -1,5 +1,12 @@
 [Strat globale](https://www.youtube.com/watch?v=ALsYpDwW8DU)
 
+## Forbidden fruit 4 (Boeuf relatif)
+![unknown](https://user-images.githubusercontent.com/106151129/190919215-b5f40d49-e1ab-4b38-8fa4-b1395b757acf.png)
+
+## Forbidden fruit 5 
+Si tether le faire passer par le centre de l'arene, si pas de lien aller sur sa position spread prendre la tour
+![unknown](https://user-images.githubusercontent.com/106151129/190919242-312175ee-28f3-4c5a-8605-261acd61a2a6.png)
+
 ## Purgation (sleepo)
 [Toolbox purgation](https://ff14.toolboxgaming.space/?id=771476818153661&preview=1#4)
 ### Positions
