@@ -20,5 +20,8 @@ Si tether le faire passer par le centre de l'arene, si pas de lien aller sur sa 
 ![unknown](https://user-images.githubusercontent.com/106151129/190917583-43a05535-3d3b-4a40-9dd1-47543ef893ea.png)
 
 
-## War
-![unknown](https://user-images.githubusercontent.com/106151129/190917591-643d1609-8ae0-44e3-a195-48b6173d955a.png)
+## War Inumaru
+![unknown](https://user-images.githubusercontent.com/106151129/192156661-42be449d-6939-40e7-94c0-24a92993f422.png)
+
+
+[old](https://user-images.githubusercontent.com/106151129/190917591-643d1609-8ae0-44e3-a195-48b6173d955a.png)
