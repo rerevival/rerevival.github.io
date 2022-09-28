@@ -13,6 +13,18 @@ Si tether le faire passer par le centre de l'arene, si pas de lien aller sur sa 
 ![image](https://user-images.githubusercontent.com/106151129/190918339-b3ac9150-7882-4848-820d-fbba166bf37d.png)
 
 ## Famine
+1. Position de départ : repérage de la plateforme comportant deux fruits et placement sur celle-ci (plateforme A sur l'image)
+2. Déplacement : les adds apparaissent 
+
+   - Pas de lien --> placement en bout de plateforme pour bait
+
+   - Lien --> déplacement vers la plateforme dont n'est pas originaire le lien (sur l'image, déplacement en C pour ceux liés à un minotaure en B, et vice versa)
+3. Ajustement :
+
+   - Les liens doivent se "croiser" pour optimiser leur longueur et atténuer les dégâts
+   
+   - Prise en compte de la position des oiseaux pour ne pas se retrouver dans leurs trajectoires
+4. Résolution : déplacement des joueurs qui ont bait en A vers le sud ou le nord de la plateforme pour éviter les cônes et le dash des oiseaux (courir vers le bord opposé met trop de temps et ne permet pas d'éviter les oiseaux)
 ![unknown](https://user-images.githubusercontent.com/106151129/190917571-a8609d1e-d6bc-475c-95eb-ce61b89a0718.png)
 
 
