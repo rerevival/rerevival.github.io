@@ -13,7 +13,7 @@ Si tether le faire passer par le centre de l'arene, si pas de lien aller sur sa 
 ![image](https://user-images.githubusercontent.com/106151129/190918339-b3ac9150-7882-4848-820d-fbba166bf37d.png)
 
 ## Famine
-1. Position de départ : repérage de la plateforme comportant deux fruits et placement sur celle-ci (plateforme A sur l'image)
+1. Repérage et positionnement : identification de la plateforme comportant deux fruits et placement sur celle-ci (plateforme A sur l'image)
 2. Déplacement : les adds apparaissent 
 
    - Pas de lien --> placement en bout de plateforme pour bait
@@ -24,11 +24,27 @@ Si tether le faire passer par le centre de l'arene, si pas de lien aller sur sa 
    - Les liens doivent se "croiser" pour optimiser leur longueur et atténuer les dégâts
    
    - Prise en compte de la position des oiseaux pour ne pas se retrouver dans leurs trajectoires
-4. Résolution : déplacement des joueurs qui ont bait en A vers le sud ou le nord de la plateforme pour éviter les cônes et le dash des oiseaux (courir vers le bord opposé met trop de temps et ne permet pas d'éviter les oiseaux)
+4. Résolution : déplacement des joueurs qui ont bait en A vers le sud-ouest ou le nord-est de la plateforme pour éviter les cônes et le dash des oiseaux (courir vers le bord opposé met trop de temps et ne permet pas d'éviter les oiseaux)
+
 ![unknown](https://user-images.githubusercontent.com/106151129/190917571-a8609d1e-d6bc-475c-95eb-ce61b89a0718.png)
 
 
 ## Death (JP tank invu)
+1. Repérage et positionnement : identification de la plateforme du buffle (fruit ressemblant à un oeil)
+2. Déplacement : les adds apparaissent
+   
+   - H1, R1 et M1 se placent sur la plateforme de gauche en regardant le buffle
+   
+   - H2, R2 et M2 se placent sur la plateforme de droite en regardant le buffle
+   
+   - MT et OT se placent sur le pont vide
+3. Ajustement :
+
+   - Prise en compte des trajectoires des oiseaux, healers et DPS se placent dans les zones safes de leurs plateformes respectives
+   
+   - MT et OT se rapprochent de la plateforme du buffle pour ne pas toucher un healer avec leur aoe en ligne
+4. Résolution : MT et OT utilisent leur invulnérabilité
+
 ![unknown](https://user-images.githubusercontent.com/106151129/190917583-43a05535-3d3b-4a40-9dd1-47543ef893ea.png)
 
 
