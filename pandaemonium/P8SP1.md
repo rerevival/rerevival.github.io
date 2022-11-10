@@ -42,6 +42,7 @@ Positions spread
 [Toolbox par Ralph](https://ff14.toolboxgaming.space/?id=835776645966661&preview=1)
 
 ## Centaur 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KvXLUJVWrwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Snake 2
 [Toolbox](https://ff14.toolboxgaming.space/?id=956777348086661&preview=1)
