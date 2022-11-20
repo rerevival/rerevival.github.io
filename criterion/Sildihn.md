@@ -9,6 +9,7 @@
 # Boss 3
 ## Strat globale
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHCpP6TeVV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## JP Braindead
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnSkZZi_u9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 https://ff14.toolboxgaming.space/?id=294778469366661&preview=1
