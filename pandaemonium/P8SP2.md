@@ -7,6 +7,7 @@
 
 ## High concept
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mqNrJ9CSbRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Priorités
 α nord, β adjust, γ sud, long debuffs tours au sud, short debuffs/stacks tours au nord 
 
