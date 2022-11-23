@@ -13,4 +13,4 @@
 * long debuffs tours au sud, short debuffs/stacks tours au nord 
 
 ## Limitless
-[Toolbox](https://ff14.toolboxgaming.space/?id=350473109343661&preview=1#18)
+[Toolbox](https://ff14.toolboxgaming.space/?id=350473109343661&preview=1#18) (Steps 18 à 25)
