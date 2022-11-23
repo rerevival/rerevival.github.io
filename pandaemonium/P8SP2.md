@@ -12,5 +12,5 @@
 * α nord, β adjust, γ sud
 * long debuffs tours au sud, short debuffs/stacks tours au nord 
 
-### Limitless
+## Limitless
 [Toolbox](https://ff14.toolboxgaming.space/?id=350473109343661&preview=1#18)
