@@ -15,7 +15,14 @@
 ## Limitless
 [Toolbox](https://ff14.toolboxgaming.space/?id=350473109343661&preview=1#18) (Steps 18 à 25)
 
+## NA2
+![image](https://user-images.githubusercontent.com/106151129/207639951-64b666ed-caab-4348-96e6-070776e0ecf0.png)
+
+
+
 ## Dominion
+![image](https://user-images.githubusercontent.com/106151129/207640074-a1baaf6a-9cb3-4f58-a84c-c6d06486a17e.png)
+
 Priority system (explication qui le simplifie) : MT>OT>H1>H2>M1>M2>R1>R2  
 **MT, H2, M1 et R2 n'ont jamais besoin d'adjust**  
 OT (pas de debuff) regarde MT : s'il a pas le debuff il va en 2, sinon en 1  
