@@ -1,6 +1,13 @@
 # Ultimates
 [UCOB](./ultimates/ucob)
 
+# Pandaemonium Anabaseios
+- [P9S](./pandaemonium/P9S)
+- [P10S](./pandaemonium/P10S)
+- [P11S](./pandaemonium/P11S)
+- [P12S P1](./pandaemonium/P12SP1)
+- [P12S P2](./pandaemonium/P12SP2)
+- 
 # Pandaemonium Abyssos
 - [P5S](./pandaemonium/P5S)
 - [P6S](./pandaemonium/P6S)
