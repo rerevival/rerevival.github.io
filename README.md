@@ -1,21 +1,28 @@
 # Ultimates
 [UCOB](./ultimates/ucob)
 
+# Pandaemonium Anabaseios
+- [P9S](./pandaemonium/P9S)
+- [P10S](./pandaemonium/P10S)
+- [P11S](./pandaemonium/P11S)
+- [P12S P1](./pandaemonium/P12SP1)
+- [P12S P2](./pandaemonium/P12SP2)
+
 # Pandaemonium Abyssos
-- [P5S](./asphodelos/P5S)
-- [P6S](./asphodelos/P6S)
-- [P7S](./asphodelos/P7S)
-- [P8S P1](./asphodelos/P8SP1)
-- [P8S P2](./asphodelos/P8SP2)
+- [P5S](./pandaemonium/P5S)
+- [P6S](./pandaemonium/P6S)
+- [P7S](./pandaemonium/P7S)
+- [P8S P1](./pandaemonium/P8SP1)
+- [P8S P2](./pandaemonium/P8SP2)
 
 # Pandaemonium Asphodelos 
-- [P1S](./asphodelos/P1S)
-- [P2S](./asphodelos/P2S)
-- [P3S](./asphodelos/P3S)
-- [P4S P1](./asphodelos/P4SP1)
-- [P4S P2](./asphodelos/P4SP2)
+- [P1S](./pandaemonium/P1S)
+- [P2S](./pandaemonium/P2S)
+- [P3S](./pandaemonium/P3S)
+- [P4S P1](./pandaemonium/P4SP1)
+- [P4S P2](./pandaemonium/P4SP2)
 
-- [Dps checks All Pandaemonium](./asphodelos/DPS)
+- [Dps checks All Pandaemonium](./pandaemonium/DPS)
 
 # Promesse d'Eden 
 - E9S - Pas de strat
@@ -23,6 +30,9 @@
 - [E11S](./eden/E11S)
 - [E12SP1](./eden/E12SP1)
 - [E12SP2](./eden/E12SP2)
+
+# Criterion
+- [ Sil'dihn](./criterion/Sildihn)
 
 
 * * *
