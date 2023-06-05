@@ -20,8 +20,8 @@ P7S: 58.6k
 P8S p1: 61.6k  
 P8S p2: 65.3k  
 
-p9s: 61.3k including downtime, 63.7k without
-p10s: 68.4k
-p11s: 73.6k
-p12sp1: 71.1k including downtime, 78.6k without
-p12sp2: 76.4k
+p9s: 61.3k including downtime, 63.7k without  
+p10s: 68.4k  
+p11s: 73.6k  
+p12sp1: 71.1k including downtime, 78.6k without  
+p12sp2: 76.4k  
