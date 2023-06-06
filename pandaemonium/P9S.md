@@ -1,5 +1,8 @@
 # P9S - Kokytos
 
+Strat utilisée :  
+Hector + Oppo  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rnKHQtYCuAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Levinstrike (limit cut 1)
