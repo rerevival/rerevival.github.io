@@ -1,6 +1,3 @@
-# Ultimates
-[UCOB](./ultimates/ucob)
-
 # Pandaemonium Anabaseios
 - [P9S](./pandaemonium/P9S)
 - [P10S](./pandaemonium/P10S)
@@ -34,6 +31,8 @@
 # Criterion
 - [ Sil'dihn](./criterion/Sildihn)
 
+# Ultimates
+[UCOB](./ultimates/ucob)
 
 * * *
 
