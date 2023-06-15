@@ -17,4 +17,4 @@ Hector + Oppo
 
 
 ## Kill vid
-<iframe src="https://player.twitch.tv/?video=1838701442&parent=rerevival.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=1838701442&parent=rerevival.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
