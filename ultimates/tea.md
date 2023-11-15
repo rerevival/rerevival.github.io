@@ -8,8 +8,8 @@
 [P2: BJCC](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)  
 
 # POVS : OT
-https://www.youtube.com/watch?v=qwDaZKozYag   
-https://www.youtube.com/watch?v=HoP5zBHBxuI
+[https://www.youtube.com/watch?v=qwDaZKozYag](https://www.youtube.com/watch?v=qwDaZKozYag)  
+[https://www.youtube.com/watch?v=HoP5zBHBxuI](https://www.youtube.com/watch?v=HoP5zBHBxuI)  
 
 # Divers
-[Guide texte non lpdu](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#heading=h.53j299wnbymz)
+[Guide texte non lpdu](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#heading=h.53j299wnbymz)  
