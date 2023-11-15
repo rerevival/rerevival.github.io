@@ -10,6 +10,7 @@
 # POVS : OT
 [https://www.youtube.com/watch?v=qwDaZKozYag](https://www.youtube.com/watch?v=qwDaZKozYag)  
 [https://www.youtube.com/watch?v=HoP5zBHBxuI](https://www.youtube.com/watch?v=HoP5zBHBxuI)  
+[https://www.youtube.com/watch?v=CcNnWYIpb4k](https://www.youtube.com/watch?v=CcNnWYIpb4k)  
 
 # Divers
 [Guide texte non lpdu](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#heading=h.53j299wnbymz)  
