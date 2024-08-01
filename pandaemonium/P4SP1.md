@@ -28,4 +28,4 @@ Placement pour résolution identique à la premiere méca
 Puis deuxieme pinax into enrage
 
 # Kill vid 
-<iframe src="https://player.twitch.tv/?video=1439574193&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=1439574193&parent=rerevival.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
