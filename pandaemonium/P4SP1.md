@@ -26,3 +26,6 @@ Ceux qui n'ont pas dû se placer dans la deuxième tour vont prendre les debuffs
 Placement pour résolution identique à la premiere méca
 
 Puis deuxieme pinax into enrage
+
+# Kill vid 
+<iframe src="https://player.twitch.tv/?video=1439574193&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
