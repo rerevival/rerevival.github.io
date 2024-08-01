@@ -1,5 +1,8 @@
 # P2S - Hippokampos
 
+# Kill vid 
+<iframe src="https://player.twitch.tv/?video=1269727465&parent=rerevival.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" autplay="false"></iframe> 
+
 # Prérequis
 - définir les light parties
 - avoir son antikb bindé
