@@ -1,4 +1,5 @@
 # AAC Light-heavyweight M1
+- [Dps check](./AAC/DPS)
 - [AAC M1S](./AAC/M1S)
 - [AAC M2S](./AAC/M2S)
 - [AAC M3S](./AAC/M3S)
