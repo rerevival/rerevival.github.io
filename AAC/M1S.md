@@ -1,1 +1,10 @@
-M1S
+# M1S
+
+## Strat 
+Week 1 - attente stabilisation PF
+
+Peut etre Hector
+https://www.youtube.com/watch?v=9UB5x8JzAiQ
+
+## Kill vid
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53YTFmsCxfA?si=LYTzmNfoQAibKqhm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
