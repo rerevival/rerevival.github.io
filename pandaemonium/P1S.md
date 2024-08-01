@@ -1,5 +1,9 @@
 # P1S - Erichthonios 
 
+# Kill vid 
+<iframe src="https://player.twitch.tv/?video=1262013700&parent=rerevival.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620" autplay="false"></iframe> 
+
+# Strat
 **Chaine de supplice** - heavy hand - tank buster sans swap
 
 **Chaines torrentielles** - ather chains
