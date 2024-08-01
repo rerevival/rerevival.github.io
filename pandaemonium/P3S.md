@@ -1,6 +1,11 @@
 
 # P3S -  Phoinix
 
+#Kill vid
+<iframe src="https://player.twitch.tv/?video=1413999019&parent=rerevival.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+# Strats
+
 Dead Rebirth : Le second a l'aggro prend des autoattacks
 
 Bourrasque infernale - Heat of Condemnation : TB liens 
