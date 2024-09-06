@@ -1,5 +1,6 @@
 # AAC Light-heavyweight M1
-- [Dps check](./AAC/DPS)
+M1: dps 1st, same bait,TN,THD,MTTT | M2: Hector+Mario kart+defam card | M3: Hector, no anti-kb | M4: OQ5-QGO  
+- [Dps check and dmg down](./AAC/DPS)
 - [AAC M1S](./AAC/M1S)
 - [AAC M2S](./AAC/M2S)
 - [AAC M3S](./AAC/M3S)
